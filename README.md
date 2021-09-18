@@ -1,3 +1,13 @@
+# Installation
+
+```
+git clone "https://github.com/0fatih/avalanche-balances.git"
+```
+
+```
+go build
+```
+
 # Usage
 
 ```
